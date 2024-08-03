@@ -1,9 +1,9 @@
-Introduction
+**Introduction**
 
 The Password Generator Project is a Java Console Application designed to create random, secure passwords and assess their strength. This project aims to provide a simple and effective way for users to generate strong passwords tailored to their specific needs and to evaluate the strength of existing passwords.
 The application offers both password generation and strength-checking functionalities. Initially developed as a console-based tool, future improvements include creating a graphical user interface (GUI) to enhance usability.
 
-Functionalities
+**Functionalities**
 
 Generating a Password:
 
