@@ -16,7 +16,5 @@ Checking a Password's Strength:
 
 The strength check evaluates the use of uppercase letters, lowercase letters, numbers, symbols, and password length.
 Passwords are scored based on these criteria, with scores determining the strength rating (weak/medium/good/great).
-Displaying Useful Information:
 
-The application provides tips on password security, such as avoiding repeated characters, keyboard patterns, dictionary words, and sequences.
 This project aims to help users enhance their password security by generating strong passwords and educating them on best practices for password creation and management.
