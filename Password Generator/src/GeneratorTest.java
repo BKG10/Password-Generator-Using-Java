@@ -8,7 +8,6 @@ class GeneratorTest {
 	private final Alphabet firstAlphabet = new Alphabet(true,false,false,false);
 	private final Alphabet secondAlphabet = new Alphabet(false,true,true,true);
 	private final Generator generator = new Generator(true,false,false,false);
-//	private final Password generatedPassword = generator.GeneratePassword(4);
 	
 	@Test
 	void test1() {
